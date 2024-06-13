@@ -1,0 +1,1 @@
+Exploring hexagonal architecture with Quarkus, Jakarta EE and pure domain modeling
